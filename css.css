@@ -1,0 +1,31 @@
+
+body {
+  height: 2000px;
+}
+
+.serval-mid{
+  width: 12.72%;
+  position: relative;
+  margin-top: -10px;
+  left: 46.655%;
+  background-image:url("serval-mid.svg");
+  height: 100%;
+  background-repeat:repeat-y;
+}
+
+.serval-top{
+  background-image:url("serval-top.svg");
+  position: relative;
+  left: 25%;
+  width: 50%;
+  height: 689.5px;
+  background-repeat: no-repeat;
+}
+
+.footer{
+  position: fixed;
+  right: 10px;
+  bottom: 7px;
+  color: #bbb;
+  text-decoration: none;
+}
