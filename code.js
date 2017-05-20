@@ -1,6 +1,6 @@
 window.onscroll = scroll;
 
-function scroll(){
+function scroll() {
   var h = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
   var scrollTop = document.body.scrollTop || document.documentElement.scrollTop;
 
