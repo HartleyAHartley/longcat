@@ -1,8 +1,9 @@
 
 body {
   height: 2000px;
+  background-image: url("cloud.jpg");
+  background-repeat: repeat;
 }
-
 .serval-mid{
   width: 12.72%;
   position: relative;
